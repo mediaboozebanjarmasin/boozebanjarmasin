@@ -1,0 +1,22 @@
+.modern-gold-theme {
+    background-color: #d9af8f;
+    color: #3f2b30;
+    font-family: 'Arial', sans-serif;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.modern-gold-theme h1,
+.modern-gold-theme h2,
+.modern-gold-theme h3 {
+    color: #a15d3c;
+}
+
+.modern-gold-theme a {
+    color: #925c31;
+    text-decoration: none;
+}
+
+.modern-gold-theme a:hover {
+    text-decoration: underline;
+}
